@@ -1,4 +1,3 @@
-PE1 Final Code
 
 let naturalNums = [];
 for (let i = 0; i < 1000; i++) {
